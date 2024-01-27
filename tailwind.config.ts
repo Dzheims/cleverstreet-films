@@ -13,6 +13,11 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        "tusker-medium": ['"Tusker Grotesk 5500"'],
+        "tusker-bold": ['"Tusker Grotesk 5700"'],
+        "barlow-condensed": ['"Barlow Condensed"'],
+      },
     },
   },
   plugins: [],

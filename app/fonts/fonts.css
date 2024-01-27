@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Tusker Grotesk 5500";
+  src: url("./TuskerGrotesk-5500Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tusker Grotesk 5700";
+  src: url("./TuskerGrotesk-5700Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 
+@font-face {
+  font-family: "Tusker Grotesk 4500";
+  src: url("TuskerGrotesk-4500Medium.eot");
+  src: local("Tusker Grotesk 4500 Medium"), local("TuskerGrotesk-4500Medium"),
+    url("TuskerGrotesk-4500Medium.eot?#iefix") format("embedded-opentype"),
+    url("TuskerGrotesk-4500Medium.woff2") format("woff2"),
+    url("TuskerGrotesk-4500Medium.woff") format("woff"),
+    url("TuskerGrotesk-4500Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+} */
